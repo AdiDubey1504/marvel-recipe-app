@@ -1,4 +1,5 @@
-[
+{
+"recipes":[
   {
     "cuisine": "Indian",
     "recipe_name": "Biryani",
@@ -63,3 +64,4 @@
     "recipe_image": "assets/recipe4.jpg"
   }
 ]
+}
