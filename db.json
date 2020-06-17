@@ -1,5 +1,5 @@
 {
-  "recipes":[
+  "posts":[
     {
       "cuisine": "Indian",
       "recipe_name": "Biryani",
@@ -62,12 +62,6 @@
       "date_added": "Nov 12",
       "recipe_description": "A flavorful Indian-style main dish, inspired by the Cajun style cuisine.",
       "recipe_image": "assets/recipe4.jpg"
-    }
-  ],
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
     }
   ]
 }
