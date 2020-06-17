@@ -1,4 +1,4 @@
-const data = [
+[
   {
     cuisine: "Indian",
     recipe_name: "Biryani",
